@@ -24,6 +24,14 @@
 	"peerDependencies": {
 		"svelte": "^4.0.0"
 	},
+	"author": "Ayorinde Abdulafeez",
+  	"license": "MIT",
+	  "keywords": [
+		"svelte",
+		"sveltekit",
+		"countdown",
+		"timer"
+	],
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
